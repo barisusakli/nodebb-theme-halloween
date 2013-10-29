@@ -18,9 +18,14 @@
 	}
 	
 	.category-orange {
-		background: #FF7000;
-	}
-	
+        @color: #FF7000;
+        color: white;
+        background: @color;
+
+        &:hover {
+                background: lighten(@color, 10%);
+        }
+}
 	
 
 	.badge {
