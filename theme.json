@@ -2,7 +2,7 @@
     "id": "nodebb-theme-halloween",
     "name": "NodeBB Halloween",
     "description": "Halloween Theme for NodeBB",
-    "url": "https://github.com/designcreateplay/nodebb-theme-halloween",
+    "url": "https://github.com/barisusakli/nodebb-theme-halloween",
     "screenshot": "preview.png",
 	"staticDir": "assets"
 }
