@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-halloween",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Halloween theme for NodeBB",
   "main": "theme.less",
   "repository": {
