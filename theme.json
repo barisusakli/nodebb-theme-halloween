@@ -3,6 +3,6 @@
     "name": "NodeBB Halloween",
     "description": "Halloween Theme for NodeBB",
     "url": "https://github.com/barisusakli/nodebb-theme-halloween",
-    "screenshot": "preview.png",
-	"staticDir": "assets"
+    "screenshot": "assets/preview.png",
+    "staticDir": "assets"
 }
